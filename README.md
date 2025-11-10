@@ -14,3 +14,6 @@ We have superstore sample retail data and out stakeholder wants to track the bel
 8. Top 10 sales sub category products
 9. Most Orderd quantity product
 10. Top customer based on sales, city 
+
+
+Note: Dashboard/Notebook should be refresh based on weekly and monthly basis
